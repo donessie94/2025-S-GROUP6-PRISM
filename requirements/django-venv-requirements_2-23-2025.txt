@@ -18,7 +18,7 @@ click==8.1.8
 codegrade==16.1.84
 constantly==23.10.4
 coverage==7.6.12
-cryptography==44.0.0
+cryptography==48.0.1
 daphne==4.1.2
 dj-rest-auth==7.0.1
 Django==5.1.5
