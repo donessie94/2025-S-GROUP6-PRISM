@@ -39,7 +39,7 @@ pandas==2.2.3
 perl==1.0.0
 psycopg==3.2.4
 psycopg2-binary==2.9.10
-pyasn1==0.6.1
+pyasn1==0.6.4
 pyasn1_modules==0.4.1
 pycparser==2.22
 PyJWT==2.9.0
