@@ -14,7 +14,7 @@ coverage==7.6.12
 cryptography==44.0.0
 daphne==4.1.2
 dj-rest-auth==7.0.1
-Django==5.1.5
+Django==5.2.16
 django-allauth==65.5.0
 django-cors-headers==4.6.0
 django-filter==25.1
